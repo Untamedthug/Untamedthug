@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Untamedthug
+- 👋 Hi, I’m dark prince
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on bot
-- 📫 Collaborating with @Lino7902
+- 📫 Collaborating with 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
